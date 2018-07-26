@@ -10,6 +10,6 @@ class Dog
 end
 
 
-bobs_dog=Dof.new("Bob Jr", "beagle")
+bobs_dog=Dog.new("Bob Jr", "beagle")
 puts bobs_dog.name
 puts bobs_dog.breed
