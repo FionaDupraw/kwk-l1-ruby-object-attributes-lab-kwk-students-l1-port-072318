@@ -5,4 +5,7 @@ class Person
     @name = name 
     @job = job
   end
+end
+
+bob=Person.new("Bob", "Builder")
     
