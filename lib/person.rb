@@ -8,4 +8,5 @@ class Person
 end
 
 bob=Person.new("Bob", "Builder")
-puts 
+puts bob.name 
+puts bob.job
