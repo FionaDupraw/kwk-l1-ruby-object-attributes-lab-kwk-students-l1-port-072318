@@ -8,4 +8,4 @@ class Person
 end
 
 bob=Person.new("Bob", "Builder")
-    
+puts 
